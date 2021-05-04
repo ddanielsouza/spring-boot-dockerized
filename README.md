@@ -1,0 +1,1 @@
+GERAR WAR: docker exec -it s-docker /app/mvnw package
